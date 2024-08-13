@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 seaborn = "^0.13.2"
 notebook = "^7.2.1"
+opencv-python = "^4.10.0.84"
 
 
 [build-system]
