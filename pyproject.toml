@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 seaborn = "^0.13.2"
+notebook = "^7.2.1"
 
 
 [build-system]
