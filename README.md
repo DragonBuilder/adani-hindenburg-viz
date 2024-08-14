@@ -13,6 +13,8 @@ The idea is to better understand the stats provided through visualisation.
 ## Approach
 Read through the article, and plot the tables, all the while trying to understand what sort plot/chart works best for that table.
 
+Look inside the `viz/notebooks` directory for the source code of the visualizations.
+
 
 ## Types of plots
 1. Comparison
