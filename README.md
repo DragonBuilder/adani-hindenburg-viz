@@ -1,7 +1,7 @@
 # Introduction
 To learn and understand visualisation, it's benefits and how to create visualisations using `matplotlib`.
 
-The tables are taken from Hindenburg Research's [Adani Group: How The World’s 3rd Richest Man Is Pulling The Largest Con In Corporate History](https://hindenburgresearch.com/adani/) articles.
+The tables are taken from Hindenburg Research's [Adani Group: How The World’s 3rd Richest Man Is Pulling The Largest Con In Corporate History](https://hindenburgresearch.com/adani/) article.
 
 The idea is to better understand the stats provided through visualisation.
 
