@@ -19,7 +19,7 @@ Read through the article, and plot the tables, all the while trying to understan
 2. Distribution
 3. Composition
 
-### Comparison
+### Comparison Plots
 When the data is a trying to do a comparison. (obviously! But what does that mean?)
 And example would be say we want to compare the all year weather of 2 cities. Maybe that will help us plan vacations!
 
